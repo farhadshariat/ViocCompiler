@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "compiler.h": "c",
+        "stdlib.h": "c",
+        "header.h": "c",
+        "stdbool.h": "c",
+        "vector.h": "c",
+        "buffer.h": "c"
+    }
+}
